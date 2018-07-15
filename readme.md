@@ -1,4 +1,4 @@
-La aplicación se encuentra disponible en:  https://todo-210302.appspot.com/
+##La aplicación se encuentra disponible en:  https://todo-210302.appspot.com/
 
 Las entidades creadas son las siguietes:
 
@@ -17,7 +17,6 @@ Para subirla localmente:
 	5. Instalar maven en el equipo. 
 	6. Una vez instalado y configurado appengine y maven en el equipo, se ubica en la raiz del proyecto
 	   y se ejecuta la aplicación con el siguiente comando: mvn appengine:run 
--- 
 
 La aplicacion fue desarrollada utilizando: 
 	Java 1.8
